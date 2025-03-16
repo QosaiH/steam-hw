@@ -1,0 +1,140 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 90%;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.table-container {
+  overflow-x: auto;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+th {
+  background-color: #007bff;
+  color: white;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.dataTables_wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.dataTables_length,
+.dataTables_filter {
+  margin-bottom: 10px;
+}
+.dataTables_length label,
+.dataTables_filter label {
+  display: flex;
+  align-items: center;
+}
+.dataTables_length select,
+.dataTables_filter input {
+  margin-left: 5px;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.dataTables_paginate {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.dataTables_paginate a {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #007bff;
+}
+.dataTables_paginate a:hover {
+  background-color: #007bff;
+  color: white;
+}
+.toggle-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-right: 120px;
+}
+.toggle-container label {
+  margin-left: 10px;
+}
+.toggle-container input[type="checkbox"] {
+  display: none;
+}
+.toggle-container input[type="checkbox"] + label {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  background-color: #ccc;
+  border-radius: 34px;
+  cursor: pointer;
+}
+.toggle-container input[type="checkbox"] + label:before {
+  content: "";
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  border-radius: 50%;
+  transition: 0.4s;
+}
+.toggle-container input[type="checkbox"]:checked + label {
+  background-color: #007bff;
+}
+.toggle-container input[type="checkbox"]:checked + label:before {
+  transform: translateX(26px);
+}
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul#pagination-info.pagination {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.pagination .page-info {
+  margin-right: auto;
+}
+#pagination-info a {
+  text-decoration: none;
+  color: black;
+}

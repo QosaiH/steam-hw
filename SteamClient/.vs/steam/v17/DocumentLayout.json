@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient|c:\\users\\qosaih\\downloads\\inter2\\steam\\steamclient\\scripts\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient|solutionrelative:scripts\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\scripts\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:scripts\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\scripts\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient|solutionrelative:scripts\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\scripts\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:scripts\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\scripts\\mygames.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient|solutionrelative:scripts\\mygames.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:pages\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\pages\\mygames.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:pages\\mygames.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\css\\mygames.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB65C8F4-613E-4EB5-8A11-6D91F320E3A4}|C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam-HW1\\SteamClient|solutionrelative:css\\mygames.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\login.js",
+              "RelativeDocumentMoniker": "Scripts\\login.js",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\login.js",
+              "RelativeToolTip": "Scripts\\login.js",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-09T19:57:16.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.js",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\Index.js",
+              "RelativeDocumentMoniker": "Scripts\\Index.js",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\Index.js",
+              "RelativeToolTip": "Scripts\\Index.js",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-09T19:17:11.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\CSS\\index.css",
+              "RelativeDocumentMoniker": "CSS\\index.css",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\CSS\\index.css",
+              "RelativeToolTip": "CSS\\index.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T20:47:23.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\login.js",
+              "RelativeDocumentMoniker": "Scripts\\login.js",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\login.js",
+              "RelativeToolTip": "Scripts\\login.js",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAUwL4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-08T19:05:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Pages\\login.html",
+              "RelativeDocumentMoniker": "Pages\\login.html",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Pages\\login.html",
+              "RelativeToolTip": "Pages\\login.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T18:12:44.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\CSS\\login.css",
+              "RelativeDocumentMoniker": "CSS\\login.css",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\CSS\\login.css",
+              "RelativeToolTip": "CSS\\login.css",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-08T18:17:11.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.js",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\Index.js",
+              "RelativeDocumentMoniker": "Scripts\\Index.js",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\Index.js",
+              "RelativeToolTip": "Scripts\\Index.js",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwFUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T16:24:00.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Pages\\Index.html",
+              "RelativeDocumentMoniker": "Pages\\Index.html",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Pages\\Index.html",
+              "RelativeToolTip": "Pages\\Index.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-03T15:57:18.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myGames.js",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\myGames.js",
+              "RelativeDocumentMoniker": "Scripts\\myGames.js",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Scripts\\myGames.js",
+              "RelativeToolTip": "Scripts\\myGames.js",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-03T18:20:56.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "myGames.html",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Pages\\myGames.html",
+              "RelativeDocumentMoniker": "Pages\\myGames.html",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\Pages\\myGames.html",
+              "RelativeToolTip": "Pages\\myGames.html",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-03T18:18:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "myGames.css",
+              "DocumentMoniker": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\CSS\\myGames.css",
+              "RelativeDocumentMoniker": "CSS\\myGames.css",
+              "ToolTip": "C:\\Users\\QosaiH\\Downloads\\INTER2\\Steam\\SteamClient\\CSS\\myGames.css",
+              "RelativeToolTip": "CSS\\myGames.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-03T18:28:49.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Game List</title>
+    <link rel="stylesheet" href="../CSS/adminPage.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+    <h2>Gaming Users Data for Admin</h2>
+    <div class="toggle-container">
+        <span>Users</span>
+        <input type="checkbox" id="toggleSwitch">
+        <label for="toggleSwitch"></label>
+        <span>Games</span>
+    </div>
+    <div class="dataTables_wrapper">
+        <div class="dataTables_length">
+            <label>Show
+                <select name="entries_length" id="entries">
+                    <option value="10">10</option>
+                    <option value="15">15</option>
+                    <option value="25">25</option>
+                    <option value="50">50</option>
+                </select> entries
+            </label>
+        </div>
+        <div class="dataTables_filter">
+            <label>Search:
+                <input id="dataTables_filter" type="search">
+            </label>
+        </div>
+    </div>
+    <div class="container">
+        <div class="users-container">
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Username</th>
+                            <th>Games Purchased</th>
+                            <th>Money Spent</th>
+                            <th>Active Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="users">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="games-container">
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Game ID</th>
+                            <th>Title</th>
+                            <th>Downloads</th>
+                            <th>Total Revenue</th>
+                        </tr>
+                    </thead>
+                    <tbody id="games">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="pagination">
+            <div class="page-info" id="page-info"></div>
+            <nav aria-label="...">
+                <ul id="pagination-info" class="pagination">
+                    <li><a href="#" id="Previous">Previous</a></li>
+                    <li class="page-item"><a class="page-link" id="counter">1</a></li>
+                    <li><a href="#" id="Next">Next</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <script src=" https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="../Scripts/AjaxCalls.js"></script>
+    <script src="../Scripts/adminPage.js"></script>
+    <script src="../Scripts/nav.js"></script>
+
+</body>
+
+</html>
